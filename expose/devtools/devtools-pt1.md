@@ -1,6 +1,6 @@
 1. citylots.json
 2. expose.js
-3. 11.7MB
+3. 779kB transferred; 11.7MB resources
 4. 1.87s
 5. Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 6. GitHub.com
