@@ -29,7 +29,9 @@
     E. false //true is converted to 1 and is not equal to number 2 \
     F. true //Boolean() explicitly converts 2 to a boolean value which is true, and then === does a strict equality between these two boolean value. 
 15. == is a regular equality check that involves a type conversion if two candidates have different types. === is a strict equality check that doesn't do any type conversion, namely if it finds that two candidates are in different types, it returns false immediately. If they have same data type, then it does regular equality check.
+16. in part2-question16.js
 17. the function will return an array [2, 4, 6]. In function modifyArray, we pass in doSomething as callback. In the for loop, we go through the entire array. For each element in the array, we call callback, which is actually doSomething, and according to doSomething, we return 2 times the element. The value returned is then pushed into newArr. In the end, modifyArray return the newArr.
+18. in part2-question18.js
 19. 1 \
     4 \
     3 \
